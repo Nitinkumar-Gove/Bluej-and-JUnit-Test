@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.params=
+comment0.target=ATMMachine()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ ATMMachine\r\n
+comment1.params=money
+comment1.target=ATMMachine(int)
+comment2.params=
+comment2.target=boolean\ hasMoney()
+comment3.params=money
+comment3.target=int\ swipe(int)
+comment4.params=
+comment4.target=int\ getATMBalance()
+numComments=5
